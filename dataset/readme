@@ -2,7 +2,7 @@
 
 👉 Dataset Link: https://drive.google.com/drive/folders/1LeEhGFE4EHGBVWbczMPB8E4NqCPo3wHj?usp=sharing
 
--[ yolov3-helmet.weights - 234.9 MB
+- yolov3-helmet.weights - 234.9 MB
 Contains the learned parameters that help YOLOv3 detect helmets.
 
 - helmet.names - 7 Bytes
